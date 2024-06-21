@@ -1,0 +1,21 @@
+.mini_menu{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    display: none;
+}
+.botton_more:hover >.mini_menu{
+    display: flex;
+}
+a,button,h3,span{
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    display: none;
+}
+.navprofile:hover > .navbar{
+    display: flex;
+}
