@@ -19,7 +19,7 @@
 
 1. **Cloner le dépôt** :
    ```bash
-   https://github.com/abdo0302/eventplanner.git
+   git clone https://github.com/abdo0302/eventplanner.git
    cd EventPlanner
    ```
 
@@ -47,14 +47,6 @@
 - Accédez à l'application en ouvrant [http://localhost:8000](http://localhost:8000) dans votre navigateur.
 - Inscrivez-vous ou connectez-vous pour commencer à créer et gérer des événements.
 
-## 📝 Contribuer
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer :
-1. **Forkez** le projet.
-2. **Clonez** votre fork.
-3. Créez une nouvelle branche : `git checkout -b feature/ma-fonctionnalité`.
-4. **Commit** vos modifications : `git commit -m "Ajout de ma fonctionnalité"`.
-5. **Poussez** la branche : `git push origin feature/ma-fonctionnalité`.
-6. Ouvrez une **Pull Request**.
 
 ---
 
